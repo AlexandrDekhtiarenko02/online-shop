@@ -1,0 +1,1560 @@
+{
+  "knifes": [
+    {
+      "id": 1,
+      "name": "Grand way MV-10",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 420,
+      "image": "/images/products/knifes/grand way 1.jpg",
+      "amount": 0,
+      "rating": 6,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Бабочка",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "44-46",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 84,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.2,
+        "query": "bladeThickeness",
+        "isRange": "true",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка, мм",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 125,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ruike P848-B",
+      "description": "Нож карманный Bestech Knives, Paladin-BG13A-1 в модельном ряду компании находится в среднем ценовом диапазоне, однако на качестве и добротности сборки здесь никто не экономит. Сталь клинка – высокоуглеродистая D2, повсеместно применяется в ножевом производстве. Ее показатели обеспечивают поддержание остроты даже при частом резе, клинок не боится ржавления, обладает хорошей вязкостью. Чуть заметный прогиб обуха придет модели несколько интересный и оригинальный вид.",
+      "price": 1882,
+      "image": "/images/products/knifes/Ruike P848-B.webp",
+      "amount": 6,
+      "rating": 0,
+      "brand": {
+        "title": "Бренд",
+        "value": "Bestech knifes",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Карманный",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 150,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.8,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Grand Way 24100",
+      "description": "Тактический нож Grand Way 24100 представляет из себя надежного помощника в самых суровых испытаниях. Суперпрочная и надежная конструкция рассчитана на работу с большими нагрузками и может выдержать самые жестокие испытания.По конструкции Охотничий нож Гранд Вей 24100 построен как фуллтанг. То есть хвостовик без утончения проходит через рукоять и крепится в навершии. При таком построении в ноже просто нечему ломаться. А в сочетании с прочным клинком, толщина которого на обухе достигает 4 мм, он поистине универсален для активного отдыха, охоты и экстремальных нагрузок. Клинок из стали 440С с порошковым напылением темного цвета придает модели тактические качества, не бликует на солнце, на нем не заметны следы загрязнений и он не восприимчив к царапинам. Состав стали идеально сбалансирован для устойчивости к коррозии, прочности и твердости. Клинок с продольными долами, которые усиляют прочность, рассчитан на тяжелую работу. Введение легирующих добавок придает клинку отличные прочностные характеристики и высокие режущие способности. Твердость материала достигает 58 HRC по шкале Роквелла. Режущая кромка долго поддерживает остроту и не требует частого затачивания даже при длительной работе с твердыми материалами.",
+      "price": 672,
+      "image": "/images/products/knifes/grandWay24100.webp",
+      "amount": 0,
+      "rating": 3,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "48-50",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 101,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "MTECH USA, MT-1109BL",
+      "description": "Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 812,
+      "image": "/images/products/knifes/MTECH-MT-1109BL.webp",
+      "amount": 3,
+      "rating": 5,
+      "brand": {
+        "title": "Бренд",
+        "value": "MTECH",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Складные",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 83,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 114,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ganzo G704",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 670,
+      "image": "/images/products/knifes/Ganzo-G704.webp",
+      "amount": 0,
+      "rating": 4,
+      "brand": {
+        "title": "Бренд",
+        "value": "Ganzo",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Cкладные",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-60",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 85,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 155,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Grand way 06-D",
+      "description": "Высокая популярность ножей-балисонгов во всем мире вполне объяснима – они удобны, практичны, функциональны, просты в использовании и очень компактны. Нож 06-D производства компании Grand Way отличается классическими особенностями всех балисонгов. Он весит всего лишь 136 г и складывается в тоненькую пластинку. Такой нож будет незаметен в кармане брюк или куртки, не займет много места в походной экипировке или бардачке автомобиля. Клинок крепится к рукояти шарнирным способом. Эта простая конструкция позволяет просто обслуживать нож и очищать его по мере необходимости. Открыть и закрыть клинок для опытного пользователя не составит труда, а новичок сможет легко научиться делать это одним движением.",
+      "price": 246,
+      "image": "/images/products/knifes/Grand way 06-D.webp",
+      "amount": 6,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Балисонги",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 100,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 19,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 19,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 130,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Boker Magnum 01MB136",
+      "description": "Нож туристический Boker Magnum Classic Hunter 01MB136 – это превосходный помощник для каждого любителя туристических вылазок, а также ценителей охоты и других видов активного отдыха. В него входят инструменты, необходимые при каждом виде отдыха:",
+      "price": 986,
+      "image": "/images/products/knifes/Boker Magnum 01MB136.webp",
+      "amount": 3,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Boker",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "56-57",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 90,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 29,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Boker Plus XL 02BO014",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 1904,
+      "image": "/images/products/knifes/Boker-plus-XL.webp",
+      "amount": 0,
+      "rating": 5,
+      "brand": {
+        "title": "Бренд",
+        "value": "Boker",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-59",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 113,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 34,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 110,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "San Ren Mu 7130 FUF",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 986,
+      "image": "/images/products/knifes/San Ren Mu knives 7130.webp",
+      "amount": 6,
+      "rating": 5,
+      "brand": {
+        "title": "Бренд",
+        "value": "San Ren Mu",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-59",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 70,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.5,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 27,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 100,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ruike LD11-B",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 847,
+      "image": "/images/products/knifes/Ruike LD11-B.webp",
+      "amount": 0,
+      "rating": 4,
+      "brand": {
+        "title": "Бренд",
+        "value": "Ruike",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Бабочка",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "56-57",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 85,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 124,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "ZELPHIUS VIRTUAL GS-21",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 800,
+      "image": "/images/products/knifes/grand way 1.jpg",
+      "amount": 3,
+      "rating": 3,
+      "brand": {
+        "title": "Бренд",
+        "value": "ZELFIUS",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Бабочка",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "48-50",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 101,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 120,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Grand way GL-3",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 550,
+      "image": "/images/products/knifes/grand way 1.jpg",
+      "amount": 4,
+      "rating": 2,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "44-46",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 84,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.2,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 125,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ruike P848-B",
+      "description": "Нож карманный Bestech Knives, Paladin-BG13A-1 в модельном ряду компании находится в среднем ценовом диапазоне, однако на качестве и добротности сборки здесь никто не экономит. Сталь клинка – высокоуглеродистая D2, повсеместно применяется в ножевом производстве. Ее показатели обеспечивают поддержание остроты даже при частом резе, клинок не боится ржавления, обладает хорошей вязкостью. Чуть заметный прогиб обуха придет модели несколько интересный и оригинальный вид.",
+      "price": 1882,
+      "image": "/images/products/knifes/Ruike P848-B.webp",
+      "amount": 6,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Bestech knifes",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Карманный",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 150,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.8,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Grand Way 24100",
+      "description": "Тактический нож Grand Way 24100 представляет из себя надежного помощника в самых суровых испытаниях. Суперпрочная и надежная конструкция рассчитана на работу с большими нагрузками и может выдержать самые жестокие испытания.По конструкции Охотничий нож Гранд Вей 24100 построен как фуллтанг. То есть хвостовик без утончения проходит через рукоять и крепится в навершии. При таком построении в ноже просто нечему ломаться. А в сочетании с прочным клинком, толщина которого на обухе достигает 4 мм, он поистине универсален для активного отдыха, охоты и экстремальных нагрузок. Клинок из стали 440С с порошковым напылением темного цвета придает модели тактические качества, не бликует на солнце, на нем не заметны следы загрязнений и он не восприимчив к царапинам. Состав стали идеально сбалансирован для устойчивости к коррозии, прочности и твердости. Клинок с продольными долами, которые усиляют прочность, рассчитан на тяжелую работу. Введение легирующих добавок придает клинку отличные прочностные характеристики и высокие режущие способности. Твердость материала достигает 58 HRC по шкале Роквелла. Режущая кромка долго поддерживает остроту и не требует частого затачивания даже при длительной работе с твердыми материалами.",
+      "price": 672,
+      "image": "/images/products/knifes/grandWay24100.webp",
+      "amount": 0,
+      "rating": 5,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "48-50",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 101,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 15,
+      "name": "MTECH USA, MT-1109BL",
+      "description": "Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 812,
+      "image": "/images/products/knifes/MTECH-MT-1109BL.webp",
+      "amount": 3,
+      "rating": 4,
+      "brand": {
+        "title": "Бренд",
+        "value": "MTECH",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Складные",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 83,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 114,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Ganzo G704",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 670,
+      "image": "/images/products/knifes/Ganzo-G704.webp",
+      "amount": 0,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Ganzo",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Cкладные",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-60",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 85,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 28,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 155,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Grand way 06-D",
+      "description": "Высокая популярность ножей-балисонгов во всем мире вполне объяснима – они удобны, практичны, функциональны, просты в использовании и очень компактны. Нож 06-D производства компании Grand Way отличается классическими особенностями всех балисонгов. Он весит всего лишь 136 г и складывается в тоненькую пластинку. Такой нож будет незаметен в кармане брюк или куртки, не займет много места в походной экипировке или бардачке автомобиля. Клинок крепится к рукояти шарнирным способом. Эта простая конструкция позволяет просто обслуживать нож и очищать его по мере необходимости. Открыть и закрыть клинок для опытного пользователя не составит труда, а новичок сможет легко научиться делать это одним движением.",
+      "price": 246,
+      "image": "/images/products/knifes/Grand way 06-D.webp",
+      "amount": 6,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Grand way",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Балисонги",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "57-58",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 100,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 19,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 19,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 130,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Boker Magnum 01MB136",
+      "description": "Нож туристический Boker Magnum Classic Hunter 01MB136 – это превосходный помощник для каждого любителя туристических вылазок, а также ценителей охоты и других видов активного отдыха. В него входят инструменты, необходимые при каждом виде отдыха:",
+      "price": 986,
+      "image": "/images/products/knifes/Boker Magnum 01MB136.webp",
+      "amount": 3,
+      "rating": 0,
+      "brand": {
+        "title": "Бренд",
+        "value": "Boker",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "56-57",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 90,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 29,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 115,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 19,
+      "name": "Boker Plus XL 02BO014",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 1904,
+      "image": "/images/products/knifes/Boker-plus-XL.webp",
+      "amount": 0,
+      "rating": 4,
+      "brand": {
+        "title": "Бренд",
+        "value": "Boker",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-59",
+        "query": "steelHadness"
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 113,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 34,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 110,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "San Ren Mu knives 7130 FUF-SF, 7130FUF-SF",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 986,
+      "image": "/images/products/knifes/San Ren Mu knives 7130.webp",
+      "amount": 6,
+      "rating": 4,
+      "brand": {
+        "title": "Бренд",
+        "value": "San Ren Mu",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Туристические",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Складной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "58-59",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 70,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3.5,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 27,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 100,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 21,
+      "name": "Ruike LD11-B",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 847,
+      "image": "/images/products/knifes/Ruike LD11-B.webp",
+      "amount": 0,
+      "rating": 3,
+      "brand": {
+        "title": "Бренд",
+        "value": "Ruike",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Бабочка",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "56-57",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 85,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 3,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 124,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 22,
+      "name": "ZELPHIUS VIRTUAL GS-21",
+      "description": "Универсальный туристический нож Grand Way MV-10 придется по душе каждому, кто любит активное времяпровождение, будь то туристический поход, пикник, охота или рыбалка. Выпущенный по собственному проекту компании Grand Way, нож способен удовлетворить запросы самого требовательного покупателя. В качестве материала для клинка применяется сталь марки 8Cr13MoV, легированная молибденом и ванадием. Такой клинок характеризуется высокой твердостью, долго сохраняет остроту режущей кромки, имеет отличные антикоррозионные свойства и устойчив к химическим веществам. Складной нож Гранд Вей MV-10 оборудован неприхотливым запорным механизмом Liner Lock. Надежность этого замка проверена временем, он не боится грязи и крайне неприхотлив в уходе. Открытая конструкция ножа позволяет беспрепятственно его разбирать, очищать и регулировать. Рукоять из черного дерева отлично ложится в руку. А ее форма разработана с учетом антропометрических характеристик ладони, удобна и безопасна в работе.",
+      "price": 800,
+      "image": "/images/products/knifes/grand way 1.jpg",
+      "amount": 3,
+      "rating": 2,
+      "brand": {
+        "title": "Бренд",
+        "value": "ZELFIUS",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Бабочка",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Нескладной",
+        "query": "type",
+        "characteristic": true
+      },
+      "steelHardness": {
+        "title": "Твердость стали",
+        "value": "48-50",
+        "query": "steelHadness",
+        "characteristic": true
+      },
+      "bladeLength": {
+        "title": "Длина клинка, мм",
+        "value": 101,
+        "query": "bladeLength",
+        "characteristic": true
+      },
+      "bladeThickeness": {
+        "title": "Толщина лезвия, мм",
+        "value": 4.6,
+        "query": "bladeThickeness",
+        "characteristic": true
+      },
+      "bladeWidth": {
+        "title": "Ширина клинка",
+        "value": 32,
+        "query": "bladeWidth",
+        "characteristic": true
+      },
+      "handleLength": {
+        "title": "Длина рукояти, мм",
+        "value": 125,
+        "query": "handleLength",
+        "characteristic": true
+      }
+    }
+  ],
+  "sharpeners": [
+    {
+      "id": 23,
+      "name": "Точильный станок RUIXIN 30080",
+      "description": "Портативная точилка Risam RM 005 – это оптимальный вариант для бытового использования и применения в походных условиях. Инструмент приспособлен для затачивания режущих кромок с прямым типом заточки любой степени затупления. Конструктивно точилка Risam RM 005 выполнена в виде корпуса с двумя типами точильных абразивов – алмазным и керамическим. Алмазный абразив предназначен для первичной обработки режущих кромок, подойдет для поврежденных или сильно затупленных кромок. Он снимает верхний слой поврежденного материала и подготавливает край для финишной обработки. Керамический абразив отличается более нежным и щадящим действием, мягко шлифует поверхность и затачивает кромку до бритвенной остроты. При рядовой обработке клинков можно использовать только керамический абразив – он без лишних усилий подправит заточку. Использование точильного аппарата Risam RM 005 не вызовет затруднений даже у самого неопытного пользователя. Затачивание происходит за счет возвратно-поступательных движений последовательно на одном, а затем на другом абразиве. Перед очисткой рекомендуется очистить лезвия от загрязнений и остатков продуктов, а также насухо протереть, дабы не испортить механизм точилки. После обработки ножи подлежат также очистке от пыли при помощи воды и моющих средств. Корпус точилки Risam RM 005 выполнен из прочного полимерного материала, имеет нескользящую накладку, прочно удерживается на ровной поверхности. Также точилка будет удобна для использования на весу. Купить точилку Risam RM 005 – это практичный выбор, как для домашнего пользования, так и для похода.",
+      "price": 806,
+      "image": "/images/products/sharpenes/RUIXIN 30080.webp",
+      "amount": 6,
+      "rating": 2,
+      "brand": {
+        "title": "Бренд",
+        "value": "RUIXIN",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Точилки",
+        "query": "kind",
+        "characteristic": true
+      },
+      "sharpenedSystem": {
+        "title": "Тип",
+        "value": "Точильные системы",
+        "query": "sharpenedSystem",
+        "characteristic": true
+      },
+      "sharpenedBlade": {
+        "title": "Тип затачиваемого лезвия",
+        "value": "Обычное прямое лезвие",
+        "query": "sharpenedBlade",
+        "characteristic": true
+      },
+      "abrasive": {
+        "title": "Абразив",
+        "value": "Корунд",
+        "query": "abrasive",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 50,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 65,
+        "query": "height",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 24,
+      "name": "Точилка Risam RM 005",
+      "description": "Портативная точилка Risam RM 005 – это оптимальный вариант для бытового использования и применения в походных условиях. Инструмент приспособлен для затачивания режущих кромок с прямым типом заточки любой степени затупления. Конструктивно точилка Risam RM 005 выполнена в виде корпуса с двумя типами точильных абразивов – алмазным и керамическим. Алмазный абразив предназначен для первичной обработки режущих кромок, подойдет для поврежденных или сильно затупленных кромок. Он снимает верхний слой поврежденного материала и подготавливает край для финишной обработки. Керамический абразив отличается более нежным и щадящим действием, мягко шлифует поверхность и затачивает кромку до бритвенной остроты. При рядовой обработке клинков можно использовать только керамический абразив – он без лишних усилий подправит заточку. Использование точильного аппарата Risam RM 005 не вызовет затруднений даже у самого неопытного пользователя. Затачивание происходит за счет возвратно-поступательных движений последовательно на одном, а затем на другом абразиве. Перед очисткой рекомендуется очистить лезвия от загрязнений и остатков продуктов, а также насухо протереть, дабы не испортить механизм точилки. После обработки ножи подлежат также очистке от пыли при помощи воды и моющих средств. Корпус точилки Risam RM 005 выполнен из прочного полимерного материала, имеет нескользящую накладку, прочно удерживается на ровной поверхности. Также точилка будет удобна для использования на весу. Купить точилку Risam RM 005 – это практичный выбор, как для домашнего пользования, так и для похода.",
+      "price": 576,
+      "image": "/images/products/sharpenes/Risam-rm-004.webp",
+      "amount": 6,
+      "rating": 0,
+      "brand": {
+        "title": "Бренд",
+        "value": "Risam",
+        "query": "brand",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Точилки кухонные",
+        "query": "type",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 50,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 65,
+        "query": "height",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 25,
+      "name": "Точилка Taidea T1301TC",
+      "description": "Простая в использовании компактная точилка T1301TC производства торговой марки Taidea – это отличный помощник в затачивании режущих кромок ножей. Ее компактные габариты и небольшой вес позволяют одинаково удобно применять точилку как в бытовых условиях, так и в походе или туристическом отдыхе. Конструкция точилки Taidea T1301TC предполагает наличие двух точильных элементов с жестким углом заточки. Для первичной обработки режущей кромки используется Carbid. Этот абразив удобен для сильно затупленных и даже поврежденных лезвий. Он подготавливает кромку для собственно затачивания. Далее используется более мелкий абразив керамический – Ceramic. Он доводит режущую кромки до бритвенной остроты. Если лезвие затуплено не сильно, а требуется просто подновить заточку, то можно использовать сразу керамический абразив. Корпус точилки Taidea T1301TC оформлен из полимерного материала, имеет специальные текстурированные выпуклости, чтобы поверхность максимально прочно удерживалась в ладони. При небольших габаритах такая точилка исключительно функциональна и удобна. Такое приобретение станет полезным помощником для каждой хозяйки и пригодится в любой ситуации. Простая в использовании компактная точилка T1301TC производства торговой марки Taidea – это отличный помощник в затачивании режущих кромок ножей. Ее компактные габариты и небольшой вес позволяют одинаково удобно применять точилку как в бытовых условиях, так и в походе или туристическом отдыхе. Конструкция точилки Taidea T1301TC предполагает наличие двух точильных элементов с жестким углом заточки. Для первичной обработки режущей кромки используется Carbid. Этот абразив удобен для сильно затупленных и даже поврежденных лезвий. Он подготавливает кромку для собственно затачивания. Далее используется более мелкий абразив керамический – Ceramic. Он доводит режущую кромки до бритвенной остроты. Если лезвие затуплено не сильно, а требуется просто подновить заточку, то можно использовать сразу керамический абразив. Корпус точилки Taidea T1301TC оформлен из полимерного материала, имеет специальные текстурированные выпуклости, чтобы поверхность максимально прочно удерживалась в ладони. При небольших габаритах такая точилка исключительно функциональна и удобна. Такое приобретение станет полезным помощником для каждой хозяйки и пригодится в любой ситуации.",
+      "price": 300,
+      "image": "/images/products/sharpenes/Taidea T1301TC.webp",
+      "amount": 6,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Taidea",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Точилки",
+        "query": "kind",
+        "characteristic": true
+      },
+      "sharpenedSystem": {
+        "title": "Тип",
+        "value": "Точилки кухонные",
+        "query": "sharpenedSystem",
+        "characteristic": true
+      },
+      "sharpenedBlade": {
+        "title": "Тип затачиваемого лезвия",
+        "value": "Обычное прямое лезвие",
+        "query": "sharpenedBlade",
+        "characteristic": true
+      },
+      "abrasive": {
+        "title": "Абразив",
+        "value": "Керамика",
+        "query": "abrasive",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 80,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 60,
+        "query": "height",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 26,
+      "name": "Точилка Taidea T0612D",
+      "description": "Простая в использовании компактная точилка T1301TC производства торговой марки Taidea – это отличный помощник в затачивании режущих кромок ножей. Ее компактные габариты и небольшой вес позволяют одинаково удобно применять точилку как в бытовых условиях, так и в походе или туристическом отдыхе. Конструкция точилки Taidea T1301TC предполагает наличие двух точильных элементов с жестким углом заточки. Для первичной обработки режущей кромки используется Carbid. Этот абразив удобен для сильно затупленных и даже поврежденных лезвий. Он подготавливает кромку для собственно затачивания. Далее используется более мелкий абразив керамический – Ceramic. Он доводит режущую кромки до бритвенной остроты. Если лезвие затуплено не сильно, а требуется просто подновить заточку, то можно использовать сразу керамический абразив. Корпус точилки Taidea T1301TC оформлен из полимерного материала, имеет специальные текстурированные выпуклости, чтобы поверхность максимально прочно удерживалась в ладони. При небольших габаритах такая точилка исключительно функциональна и удобна. Такое приобретение станет полезным помощником для каждой хозяйки и пригодится в любой ситуации. Простая в использовании компактная точилка T1301TC производства торговой марки Taidea – это отличный помощник в затачивании режущих кромок ножей. Ее компактные габариты и небольшой вес позволяют одинаково удобно применять точилку как в бытовых условиях, так и в походе или туристическом отдыхе. Конструкция точилки Taidea T1301TC предполагает наличие двух точильных элементов с жестким углом заточки. Для первичной обработки режущей кромки используется Carbid. Этот абразив удобен для сильно затупленных и даже поврежденных лезвий. Он подготавливает кромку для собственно затачивания. Далее используется более мелкий абразив керамический – Ceramic. Он доводит режущую кромки до бритвенной остроты. Если лезвие затуплено не сильно, а требуется просто подновить заточку, то можно использовать сразу керамический абразив. Корпус точилки Taidea T1301TC оформлен из полимерного материала, имеет специальные текстурированные выпуклости, чтобы поверхность максимально прочно удерживалась в ладони. При небольших габаритах такая точилка исключительно функциональна и удобна. Такое приобретение станет полезным помощником для каждой хозяйки и пригодится в любой ситуации.",
+      "price": 99,
+      "image": "/images/products/sharpenes/Taidea T0612D.webp",
+      "amount": 6,
+      "rating": 1,
+      "brand": {
+        "title": "Бренд",
+        "value": "Taidea",
+        "query": "brand",
+        "characteristic": true
+      },
+      "kind": {
+        "title": "Вид",
+        "value": "Точилки",
+        "query": "kind",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Точилки карманные",
+        "query": "type",
+        "characteristic": true
+      },
+      "sharpenedBlade": {
+        "title": "Тип затачиваемого лезвия",
+        "value": "Обычное прямое лезвие",
+        "query": "sharpenedBlade",
+        "characteristic": true
+      },
+      "abrasive": {
+        "title": "Абразив",
+        "value": "Алмаз",
+        "query": "abrasive",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 42,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 10,
+        "query": "height",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 27,
+      "name": "Точилка ручная Work Sharp WSGSS",
+      "description": "Work Sharp Ручная точилка WSGSS – это точильный станок, который обеспечивает полный цикл обработки режущих кромок лезвий – начиная от первоначального устранения деформаций до финишной шлифовки по пасте. Конструктивно аппарат устроен как платформа с алмазной пластиной. Работает она в двух режимах – с жесткой фиксацией пластины или же с возможностью отклонения на небольшой угол. При плотной фиксации пластиковая каретка двигается по металлическим направляющим станины. При втором варианте использования платформа отклоняется на небольшой заданный угол. При этом снятие металла с поверхности лезвия происходит равномерно и не повреждается.",
+      "price": 2780,
+      "image": "/images/products/sharpenes/Work Sharp WSGSS.webp",
+      "amount": 6,
+      "rating": 3,
+      "brand": {
+        "title": "Бренд",
+        "value": "Work Sharp",
+        "query": "brand",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Точильные системы",
+        "query": "type",
+        "characteristic": true
+      },
+      "sharpenedBlade": {
+        "title": "Тип затачиваемого лезвия",
+        "value": "Серрейторное лезвие",
+        "query": "sharpenedBlade",
+        "characteristic": true
+      },
+      "abrasive": {
+        "title": "Абразив",
+        "value": "Алмаз",
+        "query": "abrasive",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 50,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 65,
+        "query": "height",
+        "characteristic": true
+      }
+    },
+    {
+      "id": 24,
+      "name": "KTS Work Sharp Ken Onion Edition",
+      "description": "Портативная точилка Risam RM 005 – это оптимальный вариант для бытового использования и применения в походных условиях. Инструмент приспособлен для затачивания режущих кромок с прямым типом заточки любой степени затупления. Конструктивно точилка Risam RM 005 выполнена в виде корпуса с двумя типами точильных абразивов – алмазным и керамическим. Алмазный абразив предназначен для первичной обработки режущих кромок, подойдет для поврежденных или сильно затупленных кромок. Он снимает верхний слой поврежденного материала и подготавливает край для финишной обработки. Керамический абразив отличается более нежным и щадящим действием, мягко шлифует поверхность и затачивает кромку до бритвенной остроты. При рядовой обработке клинков можно использовать только керамический абразив – он без лишних усилий подправит заточку. Использование точильного аппарата Risam RM 005 не вызовет затруднений даже у самого неопытного пользователя. Затачивание происходит за счет возвратно-поступательных движений последовательно на одном, а затем на другом абразиве. Перед очисткой рекомендуется очистить лезвия от загрязнений и остатков продуктов, а также насухо протереть, дабы не испортить механизм точилки. После обработки ножи подлежат также очистке от пыли при помощи воды и моющих средств. Корпус точилки Risam RM 005 выполнен из прочного полимерного материала, имеет нескользящую накладку, прочно удерживается на ровной поверхности. Также точилка будет удобна для использования на весу. Купить точилку Risam RM 005 – это практичный выбор, как для домашнего пользования, так и для похода.",
+      "price": 8850,
+      "image": "/images/products/sharpenes/KTS Work Sharp Ken Onion Edition.webp",
+      "amount": 6,
+      "rating": 5,
+      "brand": {
+        "title": "Бренд",
+        "value": "Work Sharp",
+        "query": "brand",
+        "characteristic": true
+      },
+      "type": {
+        "title": "Тип",
+        "value": "Электрические точильные системы ",
+        "query": "type",
+        "characteristic": true
+      },
+      "abrasive": {
+        "title": "Абразив",
+        "value": "Корунд",
+        "query": "abrasive",
+        "characteristic": true
+      },
+      "sharpenedBlade": {
+        "title": "Тип затачиваемого лезвия",
+        "value": "Обычное прямое лезвие",
+        "query": "sharpenedBlade",
+        "characteristic": true
+      },
+      "width": {
+        "title": "Ширина, мм",
+        "value": 50,
+        "query": "width",
+        "characteristic": true
+      },
+      "height": {
+        "title": "Высота, мм",
+        "value": 65,
+        "query": "height",
+        "characteristic": true
+      }
+    }
+  ],
+  "users": [
+  ],
+  "basket_users_products": [
+    
+  ],
+  "basket_users_info": [
+    
+  ],
+  "comments": [
+   
+  ],
+  "categories_routes": [
+    {
+      "title": "Ножи",
+      "route": "knifes"
+    },
+    {
+      "title": "Мультитулы",
+      "route": "multitools"
+    },
+    {
+      "title": "Точилки",
+      "route": "sharpeners"
+    },
+    {
+      "title": "Чехлы",
+      "route": "covers"
+    }
+  ]
+}
